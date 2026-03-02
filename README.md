@@ -1,2 +1,12 @@
-# aguas-mas-profundas-web
-Sitio web oficial de la iglesia Aguas Más Profundas. Construido con Astro y Tailwind CSS para máximo rendimiento y accesibilidad.
+# Aguas Más Profundas Web 🌊
+
+Sitio web oficial de la iglesia  Aguas Más Profundas.
+
+## 🛠 Tech Stack
+- **Framework:** Astro
+- **Estilos:** Tailwind CSS
+- **Deployment:** [Netlify]
+
+## 🚀 Características
+- Gestión de eventos y calendario.
+- Sección de multimedia para sermones.
